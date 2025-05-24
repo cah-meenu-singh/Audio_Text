@@ -1,3 +1,5 @@
+Worked on these key point -
+
 1. Media player
 2. Permission for audio
 3. Saving the audio in local
