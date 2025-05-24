@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087606374816",
+    "project_id": "voicenoteapp-example",
+    "storage_bucket": "voicenoteapp-example.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087606374816:android:01785fa1a0cd766b85a4c5",
+        "android_client_info": {
+          "package_name": "com.example.audio_text_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmBrhkWJjL5Rj2XxgUM3rx95ksAC3U2zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
